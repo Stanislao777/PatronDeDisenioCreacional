@@ -1,4 +1,4 @@
-interface Chasis
+public interface Chasis
 {
 	int getPeso();
 	string getMaterial();

@@ -1,4 +1,4 @@
-interface Motor
+public interface Motor
 {
 	string getTipo();
 	int getCantidadCilindros();

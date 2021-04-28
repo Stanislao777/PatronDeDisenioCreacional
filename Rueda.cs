@@ -1,4 +1,4 @@
-interface Rueda
+public interface Rueda
 {
 	double getDiametro();
 	int getIndiceDeCarga();

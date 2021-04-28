@@ -1,4 +1,4 @@
-interface CocheFactory
+public interface CocheFactory
 {
 	Chasis fabricarChasis();
 	Rueda fabricarRueda();
